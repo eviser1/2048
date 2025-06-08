@@ -20,7 +20,7 @@ A modern implementation of the classic 2048 game using Python and Tkinter. This 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/2048-game.git
+git clone https://github.com/eviser1/2048-game.git
 cd 2048-game
 ```
 
